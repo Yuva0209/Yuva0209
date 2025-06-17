@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuvakrithikka.
 - 👀 I’m interested in learning & exploring things 
-- 🌱 I’m currently learning java and its core.
+- 🌱 I’m currently learning java and web development.
 - 📫 How to reach me :- Gmail : yuvakrithikka2906@gmail.com
                        LinkedIn : linkedin.com/in/yuvakrithikka-s-333a41365
 
